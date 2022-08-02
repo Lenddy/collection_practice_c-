@@ -1,0 +1,15 @@
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\bin\Debug\net6.0\collection_practice_c#.exe
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\bin\Debug\net6.0\collection_practice_c#.deps.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\bin\Debug\net6.0\collection_practice_c#.runtimeconfig.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\bin\Debug\net6.0\collection_practice_c#.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\bin\Debug\net6.0\collection_practice_c#.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.csproj.AssemblyReference.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.AssemblyInfoInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.AssemblyInfo.cs
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.csproj.CoreCompileInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\refint\collection_practice_c#.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\collection_practice_c#.genruntimeconfig.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\collection_practice_c#\obj\Debug\net6.0\ref\collection_practice_c#.dll
