@@ -5,11 +5,23 @@
 
 int[] nums = {0,1,2,3,4,5,6,7,8,9};
 
+foreach(int item in nums){
+    Console.WriteLine(item);
+}
+Console.WriteLine("-------------------------------------------------");
 string[] names = {"Tim", "Martin", "Nikki","Sara"};
 
+foreach(string item in names){
+    Console.WriteLine(item);
+}
+
+Console.WriteLine("-------------------------------------------------");
 bool[] bools = {true,false,true,false,true,false,true,false,true,false};
 
-
+foreach(bool item in bools ){
+    Console.WriteLine(item);
+}
+Console.WriteLine("-------------------------------------------------");
 
 //* List of Flavors
 // Create a list of ice cream flavors that holds at least 5 different flavors (feel free to add more than 5!)
@@ -29,6 +41,7 @@ Console.WriteLine(flavors[2]);
 flavors.Remove(flavors[2]);
 Console.WriteLine(flavors.Count);
 
+Console.WriteLine("-------------------------------------------------");
 //* User Info Dictionary
 // Create a dictionary that will store both string keys as well as string values
 // Add key/value pairs to this dictionary where:
